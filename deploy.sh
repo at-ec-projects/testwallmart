@@ -1,4 +1,5 @@
 echo "Hello All"
+echo "This script is also updated"
 echo "We will be deploying the code using this file"
 echo "Anyone can use this file"
 echo "Thankyou"
